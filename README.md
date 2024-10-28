@@ -22,3 +22,8 @@ Ecosentinel es un proyecto de monitoreo ambiental orientado a la detección temp
 - *Python*: Lenguaje de programación para el procesamiento y análisis de datos.
 - *GDAL (Geospatial Data Abstraction Library)*: Para el procesamiento y análisis de datos geoespaciales.
 - *Matplotlib, Folium*: Herramientas de visualización de datos.
+
+## Imagenes del Circuito armado
+
+![Circuito Vista 1](/home/katzchen/Documents/Ecosentinel/Ecosentinel/Circuit.jpeg)
+![Circuito Vista 2](/home/katzchen/Documents/Ecosentinel/Ecosentinel/Circuit_2.jpeg)
