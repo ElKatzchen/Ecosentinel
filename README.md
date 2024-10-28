@@ -25,5 +25,5 @@ Ecosentinel es un proyecto de monitoreo ambiental orientado a la detección temp
 
 ## Imagenes del Circuito armado
 
-![Circuito Vista 1](/home/katzchen/Documents/Ecosentinel/Ecosentinel/Circuit.jpeg)
-![Circuito Vista 2](/home/katzchen/Documents/Ecosentinel/Ecosentinel/Circuit_2.jpeg)
+![Circuito Vista 1](/Images/Circuit.jpeg)
+![Circuito Vista 2](/Images/Circuit_2.jpeg)
